@@ -45,7 +45,7 @@ int main()
 }
 ```
 ## Activity 4 Part 3
-
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -80,7 +80,7 @@ int main(int argc, char *argv[])
   	return 1;
 	}
 }
-
+```
 ## Activity 4 Part 4
 ```
 #include <stdio.h>
